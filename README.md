@@ -1,1 +1,1 @@
-# test_rust_poky_recipe
+A repository I use to learn how to build a rust application using openembedded - Poky.
